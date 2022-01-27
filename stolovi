@@ -1,0 +1,42 @@
+[
+{
+"id"="1",
+"naslov"="Trpezariski sto",
+"karakterstike"="dimenzije 80x80",
+"opis"="Drveni hrastom sto za cetiri osobe sa mogucstvom prosirenja za jos dve osobe",
+"cenu"="145 Evra",
+"image"="https://wooding.rs/wp-content/uploads/2020/05/Sto-1-1.jpg",
+},
+{
+"id"="1",
+"naslov"="Sto za rucavanje",
+"karakterstike"="dimenzije 180x80",
+"opis"="Drveni bukov sto za 6 osobe sa mogucstvom prosirenja za jos dve osobe",
+"cenu"="345 Evra",
+"image"="https://wooding.rs/wp-content/uploads/2020/05/Sto-1-1.jpg",
+},
+{
+"id"="2",
+"naslov"="Trpezariski sto",
+"karakterstike"="dimenzije 80x80",
+"opis"="Drveni hrastom sto za cetiri osobe sa mogucstvom prosirenja za jos dve osobe",
+"cenu"="145 Evra",
+"image"="https://i0.wp.com/namestajpomeri.net/wp-content/uploads/2013/12/IMG_0158.jpg",
+},
+{
+"id"="3",
+"naslov"="Dizajnirani sto",
+"karakterstike"="dimenzije 60x120",
+"opis"="Moderni dizaj koji ce ukrasiti Vas enterijer. Obogaceno posebnom vrstom drveta",
+"cenu"="1245 Evra",
+"image"="https://i.pinimg.com/736x/d7/70/c2/d770c220bb6febcd9ad8a43be846a40b.jpg",
+},
+{
+"id"="4",
+"naslov"="Okrugle sto ",
+"karakterstike"="dimenzije ",
+"opis"="Sto modernog dizajna i visokog nivoa obrade i kvaleteta",
+"cenu"="245 Evra",
+"image"="https://img1.etsystatic.com/209/0/5807525/il_340x270.1338359017_r8em.jpg",
+}
+]
